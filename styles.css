@@ -17,3 +17,11 @@ font-size:40px;
     color:red;
     font-size:40px;
 }
+.pic{
+    display: flex; 
+    justify-content: center;
+}
+.answer{
+     display: flex; 
+    justify-content: center;
+}
